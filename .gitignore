@@ -1,0 +1,36 @@
+# Compiled class file
+target/
+*.class
+
+# Log file
+*.log
+logs/
+
+# Database files
+data/
+*.mv.db
+*.trace.db
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Environment & Secrets #
+.env
+*.local
+*.secret
+
+# Virtual machines / IDEs #
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+.DS_Store
+Thumbs.db
